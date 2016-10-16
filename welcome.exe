@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+
+public class WelcomeInMessageDialogBox {
+  public static void main(String[] args)}
+  // display mesej
+  JOptionPane.showMessageDialog(null," Selamat Datang ke Jawa (Welcome to Java));
+  }
+  }
